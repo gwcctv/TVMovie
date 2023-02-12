@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "name": "最大资源",
-    "api": "http://www.zdziyuan.com/inc/api.php",
-    "download": "http://www.zdziyuan.com/inc/apidown.php"
+    "name": "飞速",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
+    "download": ""
   },
   {
     "id": 1,
